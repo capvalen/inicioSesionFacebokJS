@@ -1,5 +1,5 @@
 # Inicio Sesión en Facebok con JS
-Ejemplo completo de Inicio de sesión con facebook con el API SDK de Javascript 13.0
+Ejemplo completo de Inicio de sesión con facebook con el API SDK de Javascript Graph V. 13.0
 
 Sugerencia para crear el aplicativo:
 - Tu aplicativo debe estar creado sin **ninguna plantilla previa**
@@ -7,7 +7,9 @@ Sugerencia para crear el aplicativo:
 - No te olvides agregar en "Inicio de sesión con Facebook" > Configuración:
     - Poner como **SI**: Iniciar sesión con el SDK de JavaScript
     - Agregar tu dominio en: Dominios admitidos para el SDK de JavaScript
-    
+
+Espero que no mueras en el intento.
+
 ```
 <!DOCTYPE html>
 <html>
